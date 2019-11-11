@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  dllmain.cpp
+  fitsToKdb.cpp
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(67,18): warning C4101: 'hdunum': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(89,18): warning C4101: 'hdunum': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(113,23): warning C4101: 'hdunum': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(143,36): warning C4101: 'ncols': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(179,16): warning C4101: 'hdunum': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(204,16): warning C4101: 'hdunum': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(229,16): warning C4101: 'hdunum': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(256,9): warning C4101: 'nullval': unreferenced local variable
+C:\Users\chenk\Desktop\qfits\fitsToKdb.cpp(255,16): warning C4101: 'hdunum': unreferenced local variable
+     Creating library C:\Users\chenk\Desktop\qfits\x64\Release\qfits.lib and object C:\Users\chenk\Desktop\qfits\x64\Release\qfits.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  qfits.vcxproj -> C:\Users\chenk\Desktop\qfits\x64\Release\qfits.dll
